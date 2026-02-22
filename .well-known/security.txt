@@ -1,0 +1,4 @@
+Contact: mailto:ben@soernet.ca
+Encryption: https://soernet.ca/pgp.asc
+Canonical: https://soernet.ca/.well-know/security.txt
+Expires: 2027-01-01T00:00:00Z
